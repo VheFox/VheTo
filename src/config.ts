@@ -21,7 +21,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "VheFox",
-	subtitle: "One demo website",
+	subtitle: "",
 	siteURL: "https://vhefox.com/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2025-11-20", // 站点开始运行日期，用于站点统计组件计算运行天数
 
@@ -165,9 +165,9 @@ export const siteConfig: SiteConfig = {
 		asciiFont: {
 			// 英文字体 - 优先级最高
 			// 指定为英文字体则无论字体包含多大范围，都只会保留 ASCII 字符子集
-			fontFamily: "ZenMaruGothic-Medium",
+			fontFamily: "Fengyasong", //"ZenMaruGothic-Medium",
 			fontWeight: "400",
-			localFonts: ["ZenMaruGothic-Medium.ttf"],
+			localFonts: ["Fengyasong.ttf"], //["ZenMaruGothic-Medium.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 		cjkFont: {
