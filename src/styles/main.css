@@ -26,10 +26,28 @@
     
 }
 
-/* 导入 Fengyasong 字体 */
+/* 导入 WenKai-Bold 字体 */
 @font-face {
     font-family: 'WenKai-Bold';
     src: url('/assets/font/WenKai-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-display: swap;
+    
+}
+
+/* 导入 SourceHanSansCN-Medium 字体 */
+@font-face {
+    font-family: 'SourceHanSansCN-Medium';
+    src: url('/assets/font/SourceHanSansCN-Medium.otf') format('truetype');
+    font-weight: normal;
+    font-display: swap;
+    
+}
+
+/* 导入 SourceHanSerifSC-Medium 字体 */
+@font-face {
+    font-family: 'SourceHanSerifSC-Medium';
+    src: url('/assets/font/SourceHanSerifSC-Medium.otf') format('truetype');
     font-weight: normal;
     font-display: swap;
     
