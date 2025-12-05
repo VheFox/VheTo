@@ -14,4 +14,27 @@ lang: ''
 ヾ(•ω•`)o
 
 ## 视频教程
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115665566440268&bvid=BV18s2VBiEni&cid=34517746627&p=1&autoplay=false" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<!-- 视频容器 -->
+<div style="position: relative; max-width: 100%; margin: 0 auto;">
+  <!-- 视频播放器 -->
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+      src="//player.bilibili.com/player.html?isOutside=true&aid=115665566440268&bvid=BV18s2VBiEni&cid=34517746627&p=1&autoplay=false" 
+      scrolling="no" 
+      frameborder="no" 
+      framespacing="0" 
+      allowfullscreen="true"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+  
+  <!-- 跳转按钮 -->
+  <div style="text-align: center; margin-top: 10px;">
+    <a 
+      href="https://www.bilibili.com/video/BV18s2VBiEni" 
+      target="_blank" 
+      style="display: inline-block; padding: 8px 16px; background: #00aeec; color: white; text-decoration: none; border-radius: 4px; font-size: 14px;">
+      在B站APP中观看
+    </a>
+  </div>
+</div>
