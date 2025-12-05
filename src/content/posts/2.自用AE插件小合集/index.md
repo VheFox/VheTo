@@ -1,17 +1,17 @@
 ---
 title: 自用AE插件小合集
-published: 2025-12-05
+published: 2025-12-05T15:30:00+08:00
 description: 'AE插件合集'
-image: './C2-1.jpg'
-tags: ["狐说",]
-category: ''
+image: './C2.jpg'
+tags: ["狐说","AE"]
+category: '文章'
 draft: false 
 lang: ''
 ---
 ## 下载地址
-天翼云盘 https://cloud.189.cn/web/share?code=Z32UvyveIVne （访问码：3ana）
-可先下载索引文件看看是否有需要的插件
-ヾ(•ω•`)o
+天翼云盘 https://cloud.189.cn/web/share?code=Z32UvyveIVne （访问码：3ana）  
+可先下载索引文件看看是否有需要的插件  
+ヾ(•ω•`)o  
 
 ## 视频教程
 <!-- 视频容器 -->
@@ -34,7 +34,7 @@ lang: ''
       href="https://www.bilibili.com/video/BV18s2VBiEni" 
       target="_blank" 
       style="display: inline-block; padding: 8px 16px; background: #00aeec; color: white; text-decoration: none; border-radius: 4px; font-size: 14px;">
-      在B站APP中观看
+      去哔哩哔哩观看ヾ(•ω•`)o
     </a>
   </div>
 </div>
