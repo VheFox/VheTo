@@ -1,13 +1,16 @@
 ---
-title: 自用AE插件小合集
+title: 自用AE插件小合集+AE时间轴换颜色
 published: 2025-12-05T15:30:00+08:00
-description: 'AE插件合集'
+description: 'AE插件合集附加AE时间轴换颜色'
 image: './C2.jpg'
 tags: ["狐说","AE"]
 category: '文章'
 draft: false 
 lang: ''
 ---
+## AE时间轴换颜色
+AE时间轴换颜色：按住Ctrl+F12打开控制台，然后在三个条那里左键选择Debug  Database View，搜索Color，选择Enable_Theme_Colorizing勾选成True，然后可以在编辑-首选项-外观点击Change Color自定义时间轴或者说高亮颜色，PR同理
+
 ## 下载地址
 天翼云盘 https://cloud.189.cn/web/share?code=Z32UvyveIVne （访问码：3ana）  
 可先下载索引文件看看是否有需要的插件  
